@@ -24,6 +24,8 @@ I build the things I write about. Some of it ships and gets used by strangers. S
 
 **[stay-ready](https://github.com/aribajahan/stay-ready).** A tool for preparing before an encounter with ICE or law enforcement. It builds a card for your phone: emergency contacts, the documents someone should be able to find, and what you are and aren't required to answer. Six languages. No backend, nothing stored, nothing sent.
 
+**[plan-your-birth-story](https://github.com/aribajahan/plan-your-birth-story).** The first prototype of Asha. You answer questions about labor, pain management, and post-birth care, and it drafts a plan to bring to a provider. React and Supabase, two OpenAI edge functions, row-level security on every table. Retired, and where the current build started.
+
 **[ariba-jahan-site](https://github.com/aribajahan/ariba-jahan-site).** My site, and the CMS I built to run it. Content lives as JSON in the repo and an admin panel edits every page and collection: articles, case studies, the speaking gallery, testimonials, the reading room, and a media library that drafts alt text on upload and flags images nothing is using. Publishing an article is a form, never a new coded page.
 
 ### Elsewhere
