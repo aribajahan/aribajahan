@@ -1,35 +1,34 @@
-## Ariba Jahan
+# Ariba Jahan
 
-I help organizations make sense of what AI is changing across consumer behavior, expectations, trust, and the experiences people choose.
+I’m a product and experience strategist, writer, builder, and AI transformation leader working at the intersection of technology, human behavior, and organizational change.
 
-Teams bring me in when something is shifting and they need to work out what it means for what they build next. Sometimes the answer is a product or a go-to-market strategy. Sometimes it's an executive advisory council, an innovation practice, or a capability the organization didn't have before.
+My work starts with a practical question: when technology changes what people expect and what is possible, what should an organization build, change, or stop doing? I turn research, changing behavior, and emerging technology into product direction, new practices, and the systems organizations need to adopt them.
 
-Bioengineering research taught me to start from evidence and build an experiment around a question I couldn't answer yet. That's still the method.
+The thread through all of it is translation: turning what AI and emerging technology make possible into something useful for the people who use it and the organizations deciding how to adopt it.
 
-### What I'm working on
+## Bodies of work
 
-**[Unmissables](https://unmissables.xyz).** Weekly writing and conversations on AI, behavior, culture, and what I'm paying attention to.
+- **Experience-Led Growth** — how organizations earn a meaningful place in people’s lives through utility, trust, and relevance.
+- **Cognitive Endurance** — a practice for preserving judgment, curiosity, and agency as AI takes on more cognitive work. I develop this work through [Unmissables](https://unmissables.xyz), my newsletter and podcast.
+- **AI Transformation** — how leaders turn AI from a tool rollout into shared practice. I use Sense → Frame → Test → Embed to help teams understand what is changing, align around the real problem, make possible directions tangible, and build the capabilities that let new ways of working last.
 
-**Experience-Led Growth.** How products and organizations earn a meaningful share of people's lives through utility, trust, and relevance.
+## How I build
 
-**Cognitive Endurance.** Nine principles on judgment, agency, and independent thinking, for a moment when most of what reaches you was generated rather than considered.
+I use Claude Code, Codex, Gemini, and other AI tools as a hands-on building practice: to design and ship products, test workflows, and build systems that make research and judgment more useful.
 
-**Asha.** An AI-enabled postpartum and family care product, currently in build.
+- **[aribajahan.com](https://www.aribajahan.com)** — my writing, work, and public platform, designed and built as a custom content system.
+- **[Design system](https://design.aribajahan.com)** — the visual language, components, interaction rules, and motion behind the site.
+- **Asha** — an early-stage AI-enabled product for postpartum support and family care. Its first MVP explored birth planning and generated early user learning; the next build centers on postpartum and co-parenting coordination. Selected for the Realist Lab Accelerator.
+- **[Library Finder](https://github.com/aribajahan/library-finder)** — a browser extension that checks whether a book is available through a public library before you buy it.
+- **[Stay Ready](https://github.com/aribajahan/stay-ready)** — a private, client-side tool for preparing for encounters with ICE or law enforcement, with emergency contacts, documents, and rights information in six languages.
+- **[Plan Your Birth Story](https://github.com/aribajahan/plan-your-birth-story)** — the first Asha prototype: an AI-assisted birth-planning tool that helped expecting parents prepare for provider conversations. Retired, but central to the current product’s early learning.
 
-### What I build
+## Background
 
-I build the things I write about. Some of it ships and gets used by strangers. Some of it gets archived after teaching me something.
+My work spans bioengineering research, medical training, public-interest innovation, product and experience strategy, and AI adoption. I have led product and organizational transformation work with teams across health, financial services, media, and public-interest organizations.
 
-**[library-finder](https://github.com/aribajahan/library-finder).** A Chrome extension that reads the ISBN off a book's product page and checks Open Library before you buy. If the book can be borrowed free, it says so and links you there. If not, it finds the nearest library holding that exact edition.
+## Elsewhere
 
-**[stay-ready](https://github.com/aribajahan/stay-ready).** A tool for preparing before an encounter with ICE or law enforcement. It builds a card for your phone: emergency contacts, the documents someone should be able to find, and what you are and aren't required to answer. Six languages. No backend, nothing stored, nothing sent.
+[aribajahan.com](https://www.aribajahan.com) · [unmissables.xyz](https://unmissables.xyz) · [LinkedIn](https://www.linkedin.com/in/aribajahan) · [ariba@aribajahan.com](mailto:ariba@aribajahan.com)
 
-**[plan-your-birth-story](https://github.com/aribajahan/plan-your-birth-story).** The first prototype of Asha. You answer questions about labor, pain management, and post-birth care, and it drafts a plan to bring to a provider. React and Supabase, two OpenAI edge functions, row-level security on every table. Retired, and where the current build started.
-
-**[ariba-jahan-site](https://github.com/aribajahan/ariba-jahan-site).** My site, and the CMS I built to run it. Content lives as JSON in the repo and an admin panel edits every page and collection: articles, case studies, the speaking gallery, testimonials, the reading room, and a media library that drafts alt text on upload and flags images nothing is using. Publishing an article is a form, never a new coded page.
-
-### Elsewhere
-
-[aribajahan.com](https://aribajahan.com) · [unmissables.xyz](https://unmissables.xyz) · [LinkedIn](https://linkedin.com/in/aribajahan) · ariba@aribajahan.com
-
-I'm open to speaking engagements, consulting and advisory work, full-time roles, and the occasional very good conversation.
+Open to senior product, experience, and AI transformation roles, alongside selected advisory and speaking work.
