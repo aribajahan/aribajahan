@@ -26,7 +26,7 @@ I’m also building Ariba Jahan OS, the AI-supported system I use to run my work
 
 - **[aribajahan.com](https://github.com/aribajahan/ariba-jahan-site)** : my personal site and content studio, built with Next.js, structured content, a media library, forms, and built-in search metadata.
 - **[Ariba Design System](https://github.com/aribajahan/ariba-design-system)** : the visual language, components, interaction rules, and motion system behind aribajahan.com.
-- **[Little Playroom](https://github.com/aribajahan/toddler-games-app)** : calm, creative games for children ages four to eight.
+- **[Little Playroom](https://github.com/aribajahan/toddler-games-app)** : calm, creative games for children ages 4-6, built it mainly for my son.
 - **[Library Finder](https://github.com/aribajahan/library-finder)** : a browser extension that checks whether a book is available through a public library before you buy it.
 - **[Stay Ready](https://github.com/aribajahan/stay-ready)** : a private, client-side tool for preparing for encounters with ICE or law enforcement, with emergency contacts, documents, and rights information in six languages.
 - **[Plan Your Birth Story](https://github.com/aribajahan/plan-your-birth-story)** : an AI-assisted birth-planning prototype that informed my current work on Asha.
