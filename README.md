@@ -1,8 +1,14 @@
 # Ariba Jahan
 
-I’m a Product, Experience & AI Strategist. I translate changes in technology and human behavior into products, experiences, and capabilities people will use.
+I build products, systems, and AI-enabled workflows. I’m a Product, Experience & AI Strategist who translates changes in technology and human behavior into experiences and capabilities people will use.
 
-My work spans bioengineering research, medical training, public-interest innovation, product strategy, customer experience, and AI adoption. I help teams turn change into products, experiences, and capabilities they can use.
+Over fifteen years, I’ve built an innovation practice and internal product and design consultancy, an enterprise AI research product, AI-enabled tools, customer experiences, and the practices teams use to adopt new technology. My background in bioengineering research and medical training shapes how I approach the work: start with evidence, make the problem concrete, build something people can use, and learn from what happens next.
+
+## What I build
+
+- **Products, experiences, and tools** — research, product strategy, concepts, prototypes, roadmaps, and delivery with product, design, data, and engineering partners.
+- **Practices and capabilities** — innovation teams, internal consultancies, AI workflows, training, and operating models that help organizations use new technology in daily work.
+- **Independent systems** — aribajahan.com, its design system, Ariba Jahan OS, and products exploring family care, public-interest technology, and creative play.
 
 ## Areas of practice
 
