@@ -14,7 +14,7 @@ Over fifteen years, I’ve built an innovation practice and internal product and
 
 - **Experience-Led Growth** : helping organizations create products, services, and customer experiences that earn a meaningful place in people’s lives.
 - **AI strategy and adoption** : helping teams decide where AI can create real value, then building the practices and capabilities that make it useful in daily work.
-- **Cognitive Endurance** : my practice for protecting judgment, curiosity, and agency as AI takes on more cognitive work. I develop this work through [Unmissables](https://unmissables.xyz), my newsletter and podcast.
+- **Cognitive Endurance** : a two-part framework for building a stronger human-AI practice: using AI to extend intelligence while strengthening discernment, creativity, critical thinking, and independent judgment. I develop this work through [Unmissables](https://unmissables.xyz), my newsletter and podcast.
 
 ## How I build
 
