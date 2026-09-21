@@ -6,7 +6,7 @@ I build products, experiences, and services that answer those questions, from ea
 
 Over the past fifteen years, I have built products, customer experiences, service offerings, go-to-market strategies, teams, and innovation practices across public health, enterprise technology, consumer products, nonprofits, and agencies.
 
-AI ambition is outrunning the operating model. My recent work has focused on designing products and experiences that are genuinely useful, and helping organizations put AI to work in ways that strengthen their expertise, change how teams operate, and become part of the way the organization works beyond a pilot.
+My recent work has focused on designing products and experiences that are genuinely useful, and helping organizations put AI to work in ways that strengthen their expertise, change how teams operate, and become part of the way the organization works beyond a pilot.
 
 My background in bioengineering research and medical training shapes how I approach the work: start with evidence, make the problem concrete, build something people can use, and learn from what happens next.
 
