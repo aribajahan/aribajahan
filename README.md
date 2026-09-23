@@ -2,7 +2,7 @@
 
 I work where a shift in technology, customer behavior, or the market creates a question an organization needs to answer: what does this mean for the people we serve, what should we build or change, and how do we make it work in practice?
 
-I build products, experiences, and services that answer those questions, from early research and strategy through the systems, teams, and operating decisions that make the work real.
+I build products, experiences, and services that answer those questions, from early research and strategy through the products, experiences, systems, teams, and operating decisions that make the work real.
 
 Over the past fifteen years, I have built products, customer experiences, service offerings, go-to-market strategies, teams, and innovation practices across public health, enterprise technology, consumer products, nonprofits, and agencies.
 
